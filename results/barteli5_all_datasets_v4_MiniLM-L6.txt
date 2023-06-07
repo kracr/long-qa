@@ -1,0 +1,58 @@
+
+Query: Why did buddha deliver his first sermon in sarnath
+Answers:
+[   {   'answer': ' Because it was the first place he could preach his message '
+                  'of enlightenment to his followers.'}]
+
+Query: what were buddha's most important beliefs
+Answers:
+[   {   'answer': ' Buddhism is not a monotheistic religion. There are many '
+                  'different schools of Buddhism, and they all have their own '
+                  'beliefs and practices. Buddhism is also a polytheistic '
+                  'religion, which means that there are different sects of '
+                  'Buddhism.'}]
+
+Query: why did buddha move to the path of enlightenment
+Answers:
+[   {   'answer': ' Because he wanted to see the world through the eyes of the '
+                  'Buddha.'}]
+
+Query: what is buddha's original name
+Answers:
+[{'answer': ' According to the Bhagavad Gita, he was born as Gautama.'}]
+
+Query: what is the distance between sarnath and varanasi
+Answers:
+[   {   'answer': ' The distance between Sarnath and Varanasi is the distance '
+                  'between the two points on the Himalayas.  URL_0'}]
+
+Query: what is sarnath famous for
+Answers:
+[   {   'answer': ' Sarnath is famous for being the birthplace of '
+                  'Shreyansanath, the eleventh tirthara of Buddhism.'}]
+
+Query: which all monuments are there in sarnath
+Answers:
+[   {   'answer': ' URL_1   URL_0  This is a pretty comprehensive list of all '
+                  'the monuments in Sarnath.'}]
+
+Query: where did buddha give his first sermon
+Answers:
+[   {   'answer': ' It is believed to have been at Sarnath, the site of the '
+                  "Buddha's birth."}]
+
+Query: why is sarnath called city of light
+Answers:
+[   {   'answer': ' Sarnath is the place where the Buddha attained '
+                  'enlightenment. It is also the site of the Mrigadava, the '
+                  'holy book of the Buddha.'}]
+
+Query: Where did buddha attain enlightenment
+Answers:
+[   {   'answer': " He didn't attain enlightenment. He attained the state of "
+                  "Nirvana. Nirvana is a state of mind in which you don't need "
+                  'to worry about anything.'}]
+
+Query: What is buddha's original name
+Answers:
+[{'answer': ' According to the Bhagavad Gita, he was born as Gautama.'}]

@@ -1,0 +1,87 @@
+
+Query: Why did buddha deliver his first sermon in sarnath
+Answers:
+[   {   'answer': 'Sarnath is the site of the Mrigadava, the deer park where '
+                  'Gautama Buddha preached his first sermon to his disciple. '
+                  'It is also the site where the Sangha was formed.'}]
+
+Query: what were buddha's most important beliefs
+Answers:
+[   {   'answer': 'Buddhism is not a monotheistic religion, it is a collection '
+                  'of philosophies and practices. The most important of these '
+                  'philosophies are the Four Noble Truths, the Eightfold Path, '
+                  'and the Noble Eightfold Way. The four truths are: 1. There '
+                  'is no God. 2. The world is created by the creator. 3. The '
+                  'universe is infinite. 4. No one is born or dies. 5. No '
+                  'matter what you do, you will always be reincarnated. 6. '
+                  'Life is a cycle of rebirth. 7. You are born, you die, you '
+                  'are reincarnated, and you are reborn again. 8. You live '
+                  "forever. 9. You do not die. 10. You don't go to heaven. 11. "
+                  'You die. 12. You go to hell. 13. You come back to life. 14. '
+                  'You become enlightened.'}]
+
+Query: why did buddha move to the path of enlightenment
+Answers:
+[   {   'answer': 'Siddhartha Gautama was an Indian prince in the fifth '
+                  'century who upon seeing people poor and die realize that '
+                  'human life be suffer he renounce his wealth and spend time '
+                  'as poor beggar meditating and travel'}]
+
+Query: what is buddha's original name
+Answers:
+[   {   'answer': 'Buddha was the name of a man who lived in Northern India in '
+                  'the 6th century BCE. He was the founder of the religion '
+                  'that is now known as Buddhism. His name was Siddhartha.'}]
+
+Query: what is the distance between sarnath and varanasi
+Answers:
+[{'answer': 'The distance between Sarnath and Varanasi is about 10-15 km.'}]
+
+Query: what is sarnath famous for
+Answers:
+[   {   'answer': 'Sarnath is the birthplace of Shreyansanath, the eleventh '
+                  'tirthankara of Jainism. It was also the place where Gautama '
+                  'Buddha preached his first sermon.'}]
+
+Query: which all monuments are there in sarnath
+Answers:
+[   {   'answer': 'Sarnath is one of the most important pilgrimage sites in '
+                  'India. It is a holy site for Buddhists, Jains, and many '
+                  'other religions. There are many temples and shrines in '
+                  'Sarnath, but the most famous one is the Dhamekh Stupa. It '
+                  'was built during the time of the Mauryan emperor Ashoka, '
+                  'and it is the tallest building in the world. There is also '
+                  'the Chaukhandi stupa, which was built by the Mughals during '
+                  'the reign of Emperor Akbar.'}]
+
+Query: where did buddha give his first sermon
+Answers:
+[   {   'answer': "Buddha's first sermon is known as the benare sermon. It was "
+                  'given in the 6th century BCE by a monk named Kaundinya. It '
+                  'is believed to be the first sermon to be given by a '
+                  'Buddhist monk. There is a lot of debate as to where it was '
+                  'given, but it is generally believed to have been in Bodh '
+                  'Gaya.'}]
+
+Query: why is sarnath called city of light
+Answers:
+[   {   'answer': 'Sarangnath is the name of the deer god that lived in the '
+                  'area around the city of Varanasi during the time of the '
+                  'Buddha.'}]
+
+Query: Where did buddha attain enlightenment
+Answers:
+[   {   'answer': 'Siddhartha Gautama was an Indian prince in the fifth '
+                  'century who upon seeing people poor and die realize that '
+                  'human life be suffer he renounce his wealth and spend time '
+                  'as poor beggar meditating and travel but ultimately remain '
+                  'unsatisfie settle on something call the middle way this '
+                  'idea mean that neither extreme asceticism or extreme wealth '
+                  'be the path to enlightenment but rather way of life between '
+                  'the two extremes.'}]
+
+Query: What is buddha's original name
+Answers:
+[   {   'answer': 'Buddha was the name of a man who lived in Northern India in '
+                  'the 6th century BCE. He was the founder of the religion '
+                  'that is now known as Buddhism. His name was Siddhartha.'}]

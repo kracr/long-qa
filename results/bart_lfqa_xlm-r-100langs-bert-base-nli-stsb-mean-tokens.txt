@@ -1,0 +1,56 @@
+
+Query: Why did buddha deliver his first sermon in sarnath
+Answers:
+[   {   'answer': ' It was one of the most holy places on the planet at the '
+                  "time of Buddha's enlightenment. It was also the site of "
+                  "Gautama Buddha's first sermon."}]
+
+Query: what were buddha's most important beliefs
+Answers:
+[   {   'answer': " Buddhism is not a monotheistic religion. It's not a "
+                  "religion, it's a philosophy. Buddha's most important "
+                  'beliefs were that you should be kind to others, and to '
+                  'yourself.'}]
+
+Query: why did buddha move to the path of enlightenment
+Answers:
+[   {   'answer': ' Buddhism is not a monotheistic religion. Buddhism is a '
+                  'branch of monotheism. The Buddha was not a monk, nor was he '
+                  'a monk. He was a monk who was seeking enlightenment. He did '
+                  'not seek enlightenment because he was enlightened, but '
+                  'because he desired to be enlightened.'}]
+
+Query: what is buddha's original name
+Answers:
+[   {   'answer': " Buddha's original name was Budai. Budai is the Sanskrit "
+                  'word for buddha.'}]
+
+Query: what is the distance between sarnath and varanasi
+Answers:
+[   {   'answer': ' Sarnath is the site of the 11th tirthankara, which is the '
+                  'birth of the Buddha. It is also the place where the '
+                  'Kalyanak auspicious life event takes place.'}]
+
+Query: what is sarnath famous for
+Answers:
+[   {   'answer': " It's famous for being the birthplace of the 11th "
+                  'tirthankara of Jainism.'}]
+
+Query: which all monuments are there in sarnath
+Answers:
+[   {   'answer': ' The [Dharmarajika Stupa]( URL_0 ) is the largest monument '
+                  'at Sarnath.'}]
+
+Query: where did buddha give his first sermon
+Answers:
+[   {   'answer': " Buddha didn't give his first sermon. Gautama Buddha was a "
+                  "monk at the time of Buddha's enlightenment."}]
+
+Query: why is sarnath called city of light
+Answers:
+[   {   'answer': ' Sarnath is not a city of light. It is the site of a '
+                  'Buddhist temple.'}]
+
+Query: Where did buddha attain enlightenment
+Answers:
+[{'answer': ' Where did you get the idea that he attained enlightenment?'}]

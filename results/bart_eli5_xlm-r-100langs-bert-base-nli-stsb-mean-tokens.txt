@@ -1,0 +1,60 @@
+
+Query: Why did buddha deliver his first sermon in sarnath
+Answers:
+[   {   'answer': ' The Buddha chose Sarnath because it was close to the city '
+                  'of Varanasi which was the birthplace of the Buddha.'}]
+
+Query: what were buddha's most important beliefs
+Answers:
+[   {   'answer': ' Buddhism is not a monotheistic religion. It is a '
+                  'non-denominational religion. You can be a Buddhist, but you '
+                  "can't be an Atheist."}]
+
+Query: why did buddha move to the path of enlightenment
+Answers:
+[   {   'answer': ' Buddhism is not a monotheistic religion. Buddhism is a '
+                  'non-hierarchial religion. Buddhists believe that the path '
+                  'of enlightenment is the path to Nirvana, which is the '
+                  'highest state of being. Buddhism does not believe in '
+                  'reincarnation or reincarnation at all.'}]
+
+Query: what is buddha's original name
+Answers:
+[   {   'answer': " Buddha's original name was Dhamma, which is a Sanskrit "
+                  'word meaning "son" or "son of". The word "Budha" is derived '
+                  'from the Sanskrit word for "son".'}]
+
+Query: what is the distance between sarnath and varanasi
+Answers:
+[   {   'answer': ' The distance between Sarnath and Varanasi is the distance '
+                  'between the Sun and the Moon.  URL_0'}]
+
+Query: what is sarnath famous for
+Answers:
+[   {   'answer': ' Sarnath is famous for being the place where the Buddha was '
+                  'said to have attained enlightenment.'}]
+
+Query: which all monuments are there in sarnath
+Answers:
+[   {   'answer': " URL_1   URL_0  I'm not sure if this is what you're looking "
+                  "for, but it's a good place to start."}]
+
+Query: where did buddha give his first sermon
+Answers:
+[   {   'answer': " The Buddha didn't give his first sermon. The Buddha was a "
+                  'monk, and he was given the opportunity to give a sermon by '
+                  "the King of India at the time of the Buddha's "
+                  'enlightenment.'}]
+
+Query: why is sarnath called city of light
+Answers:
+[   {   'answer': ' Because it is the site of the birth of the Buddha. It is '
+                  'also the site where the four holy sites of Buddhism are '
+                  'located.'}]
+
+Query: Where did buddha attain enlightenment
+Answers:
+[   {   'answer': ' Buddhism is not a monotheistic religion. There is no '
+                  '"Buddhism" or "Buddha" or anything like that. There are '
+                  'many different types of buddhism, and they all have '
+                  'different ideas of where enlightenment is achieved.'}]

@@ -1,0 +1,68 @@
+
+Query: Why did buddha deliver his first sermon in sarnath
+Answers:
+[   {   'answer': "Buddha didn't come to Sarnath to preach his first sermon, "
+                  'he came to preach the teachings of the Buddha.'}]
+
+Query: what were buddha's most important beliefs
+Answers:
+[   {   'answer': 'Buddhism is not a monotheistic religion. It is a '
+                  'non-religion. Buddhism is not monotheism, it is a belief '
+                  'system. The Buddha did not believe in a single god, nor did '
+                  'he believe in reincarnation. Rather, he believed in the '
+                  'Three Noble Truths, which are: 1. There is no God. 2. There '
+                  'are no reincarnations. 3. No one can be reincarnated.'}]
+
+Query: why did buddha move to the path of enlightenment
+Answers:
+[   {   'answer': "Buddha didn't move to the path of enlightenment because he "
+                  'was enlightened. He was enlightened because he became '
+                  'enlightened.'}]
+
+Query: what is buddha's original name
+Answers:
+[   {   'answer': 'Buddha is the name of the Buddha, who was born in India in '
+                  'the 5th century BCE. The name is derived from the Sanskrit '
+                  'word buddha, which means "one who is enlightened".'}]
+
+Query: what is the distance between sarnath and varanasi
+Answers:
+[{'answer': 'The distance between Sarnath and Varanasi is about 15 km.'}]
+
+Query: what is sarnath famous for
+Answers:
+[   {   'answer': 'Sarnath is famous for being the birthplace of '
+                  'Shreyansanath, the eleventh tirthankara of Jainism.'}]
+
+Query: which all monuments are there in sarnath
+Answers:
+[   {   'answer': 'Sarnath is one of the most important pilgrimage sites in '
+                  'India. It is the birthplace of Gautama Buddha, and is the '
+                  'site of the largest temple in the world. There are many '
+                  'temples in Sarnath, but the most famous one is the '
+                  'Dharamshala Temple, which is located in the heart of the '
+                  'city.'}]
+
+Query: where did buddha give his first sermon
+Answers:
+[   {   'answer': "Buddha's first sermon is believed to have taken place in "
+                  'Bodh Gaya in the 6th century BCE.'}]
+
+Query: why is sarnath called city of light
+Answers:
+[   {   'answer': 'Sarnath is the name of a mountain in the Himalayas. It is '
+                  'the highest mountain in India.'}]
+
+Query: Where did buddha attain enlightenment
+Answers:
+[   {   'answer': 'Buddhism is not a religion, it is a philosophy. It is a way '
+                  'of thinking about the world and the world around you. The '
+                  'Buddha was a man who lived in a cave in the Himalayas. He '
+                  'lived in the cave for a very long time, and eventually he '
+                  'came to the realization that there is no such thing as the '
+                  'world outside of the cave, and there is only the cave '
+                  'itself. The cave is called the Mahabodhi Temple.'}]
+
+Query: What is buddha's original name
+Answers:
+[{'answer': 'Buddha comes from the Sanskrit word buddha.'}]

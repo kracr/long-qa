@@ -1,0 +1,67 @@
+
+Query: Why did buddha deliver his first sermon in sarnath
+Answers:
+[   {   'answer': ' Buddhism is a monotheistic religion, not a monolithic '
+                  'religion like Christianity or Judaism. There are many '
+                  'different types of monotheism, and they all have their own '
+                  'rules and practices. Buddhism has a lot of different rules, '
+                  'and some of them are very different from each other. One of '
+                  "the most common rules is that you don't go to a temple to "
+                  'preach your religion. You go to the temple to practice your '
+                  'religion, and the temple is the place where you practice '
+                  'it. So, the Buddha went to Sarnath because it was a place '
+                  'where he could practice his religion.'}]
+
+Query: what were buddha's most important beliefs
+Answers:
+[   {   'answer': ' Buddhism is not a monotheistic religion. It is a '
+                  'polytheistic religion, which means that there are many '
+                  'different schools of thought, each of which have their own '
+                  'beliefs. Buddhism is also not monolithic. There are many '
+                  'sects of Buddhism, and they all have different beliefs. The '
+                  'most important belief of Buddhism is that there is no '
+                  '"right" or "wrong" way to be. There is no right or wrong '
+                  'way to live your life, and there are no wrong ways to die.'}]
+
+Query: why did buddha move to the path of enlightenment
+Answers:
+[   {   'answer': ' Because it was the only way he knew how to live a happy '
+                  'and fulfilling life.'}]
+
+Query: what is buddha's original name
+Answers:
+[   {   'answer': " It's not really known. There are a lot of theories, but "
+                  'none of them have been proven or disproved.'}]
+
+Query: what is the distance between sarnath and varanasi
+Answers:
+[{'answer': ' The distance between Sarnath and Varanasi is about 10 km.'}]
+
+Query: what is sarnath famous for
+Answers:
+[{'answer': " It's famous for being the site of the Buddha's first sermon."}]
+
+Query: which all monuments are there in sarnath
+Answers:
+[   {   'answer': ' URL_1   URL_0  There are a lot of different monuments in '
+                  "sarnath, but this is the one I'm most familiar with."}]
+
+Query: where did buddha give his first sermon
+Answers:
+[   {   'answer': " Buddhism is a monotheistic religion. The Buddha didn't "
+                  'give his first sermon.'}]
+
+Query: why is sarnath called city of light
+Answers:
+[   {   'answer': ' Sarnath is not a city of light. It is the site of one of '
+                  'the four holy sites of buddhism.'}]
+
+Query: Where did buddha attain enlightenment
+Answers:
+[   {   'answer': " He didn't. He attained enlightenment in the temple of "
+                  'Mahabodhi in Lumbini, India.'}]
+
+Query: What is buddha's original name
+Answers:
+[   {   'answer': " It's not really known. There are a lot of theories, but "
+                  'none of them have been proven or disproved.'}]

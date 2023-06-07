@@ -1,0 +1,62 @@
+
+Query: Why did buddha deliver his first sermon in sarnath
+Answers:
+[   {   'answer': 'Sarnath was chosen because it was close to Varanasi, the '
+                  'center of learning for the Buddha. It was also close to the '
+                  "capital of India at the time of the Buddha's asceticism."}]
+
+Query: what were buddha's most important beliefs
+Answers:
+[   {   'answer': 'Buddhism is not a monotheistic religion. It is a syncretic '
+                  'religion, meaning that it is a belief system based on the '
+                  'teachings of the Buddha. The most important beliefs of '
+                  'Buddhism are: 1. The Buddha is the one who created the '
+                  'world. 2. The world is not real. 3. There is no God. 4. '
+                  'There are no gods. 5. No gods. 6. No reincarnation. 7. No '
+                  'death. 8. No rebirth. 9. No suffering. 10. No pain. 11. No '
+                  'hunger. 12. No thirst.'}]
+
+Query: why did buddha move to the path of enlightenment
+Answers:
+[   {   'answer': "Buddha didn't move to the path of enlightenment because he "
+                  'wanted to be enlightened, he moved to enlightenment because '
+                  'it was the only way he knew how to become enlightened.'}]
+
+Query: what is buddha's original name
+Answers:
+[   {   'answer': 'Buddha is the name of the Buddha, who was the founder of '
+                  'the Buddhist school of thought. He was born in India, and '
+                  'his name is derived from the Sanskrit word buddha.'}]
+
+Query: what is the distance between sarnath and varanasi
+Answers:
+[{'answer': 'Sarnath is about 13 km from the city of Varanasi.'}]
+
+Query: what is sarnath famous for
+Answers:
+[{'answer': 'Sarnath is famous for being the birthplace of Gautama Buddha.'}]
+
+Query: which all monuments are there in sarnath
+Answers:
+[   {   'answer': 'Sarnath is one of the most important pilgrimage sites in '
+                  'India. It is the birthplace of Gautama Buddha, the founder '
+                  'of Buddhism. There are many temples and monasteries in '
+                  'Sarnath, but the most famous one is the Dharmarajika Stupa, '
+                  'which is the site where the Buddha preached his first '
+                  'sermon to his disciples.'}]
+
+Query: where did buddha give his first sermon
+Answers:
+[   {   'answer': 'Buddhism is not a monotheistic religion, it is a monastic '
+                  'one. The Buddha was not born in a monastery, he was born in '
+                  'the city of Sarnath, which was the center of Buddhism at '
+                  'the time.'}]
+
+Query: why is sarnath called city of light
+Answers:
+[   {   'answer': 'Sarnath is the holy site of Gautama Buddha. It was the '
+                  'place where he first taught the dharma.'}]
+
+Query: Where did buddha attain enlightenment
+Answers:
+[{'answer': 'Buddhism is not a monotheistic religion. It is a non-religion.'}]
